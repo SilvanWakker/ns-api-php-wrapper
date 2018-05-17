@@ -1,0 +1,17 @@
+{
+    "name": "silvanwakker/ns-api-php-wrapper",
+    "description": "Provides a PHP wrapper for the Nederlandse Spoorwegen API.",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Silvan Wakker",
+            "email": "wakkersilvan@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^7.1",
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}

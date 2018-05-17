@@ -1,0 +1,8 @@
+# Ignore macOS .DS_Store.
+.DS_Store
+
+# Ignore PhpStorm project files.
+.idea/
+
+# Ignore Composer generated files/
+vendor/
