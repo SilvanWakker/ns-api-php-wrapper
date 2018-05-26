@@ -1,6 +1,6 @@
 <?php
 
-namespace NsApi;
+namespace SilvanWakker\NsApi;
 
 use Psr\Http\Message\ResponseInterface;
 
